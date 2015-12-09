@@ -1,6 +1,8 @@
 Tuneup
 -----------
 
+This is a firmware for the Minicommand from Ruin & Wesen.
+
 The firmware contains two pages, which can be switched with button 1. On the first page the transpose mechanism and the chord mechanism can be enabled or disabled, as well as the current key can be selected. On the second page different settings for the chord mechanism can be selected. One midi cable has to be connected with the 1th midi in port and another midi cable has to be connected to the midi out port. When chord mode is activated just play around with some single notes and see what chords are played. I will make some better version of the firmware the next days showing the current played chord.
 
 the midi channel cc1 selects the type of chord played. 
